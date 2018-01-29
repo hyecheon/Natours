@@ -3,6 +3,7 @@
 
   &__photo {
     width: 55%;
+    //box-shadow:[inset] (오른쪽위치) (아래위치) (블러) (색상);
     box-shadow: 0 1.5rem 4rem rgba($color-black, .4);
     border-radius: 2px;
     position: absolute;
